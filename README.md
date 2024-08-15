@@ -3,6 +3,7 @@
 # Certificate:
 [Certificate](hzmoNKtzvAzXsEqx8_Accenture North America_Ga9Q8iYbBBaNEwrMe_1723762567138_completion_certificate.pdf)
 
+
 # Task - 1
 # Project Understanding:
 A data analyst sits between the business and the data.
