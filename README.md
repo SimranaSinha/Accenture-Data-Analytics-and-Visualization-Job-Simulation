@@ -21,9 +21,11 @@ So, the first step is to use this data model to identify which datasets will be 
 After Analysis we got data sets needed to complete analysis:
 Reaction Score(score is used to quantified the popularity)
 Content ID
+
 Reaction Types
+
 Content type
-Category
+
 
 # Data Cleaning:
 # Clean the data by:
