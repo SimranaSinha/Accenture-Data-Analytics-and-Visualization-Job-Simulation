@@ -36,29 +36,30 @@ Content type
       useful, it may not be worth including it.
   
 # End result will be three cleaned data set :
-[Reaction Types](ReactionTypes.csv)
-[Reactions](Reactions.csv)
-[Content](Content.csv)
+- [Reaction Types](ReactionTypes.csv)
+- [Reactions](Reactions.csv)
+- [Content](Content.csv)
 
 
 # Data Modelling:
 Create a final data set by merging 3 tables
 
-#End result will be one spreadsheet
-[A cleaned dataset](Cleaned Dataset.xlsx)
-Top 5 categories
+# End result will be one spreadsheet
+- A cleaned dataset
+  
+# Top 5 categories
 Cleaned Data set:
-So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
+So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](Cleaned Dataset.xlsx)
 
 # Task - 3
 Data Visualization and Storytelling:
 Make the Powerpoint presentation as per the given template
 
 Charts Involved :
-Pie Chart
-Bar Chart
-Powerpoint Presentation : PPT
+- Pie Chart
+- Bar Chart
+Powerpoint Presentation : [PPT](PowerPoint presentation.pptx)
 
-#Task - 4
+# Task - 4
 Present to the Client:
 Present your powerpoint presentation to the client and deliver the insights of your analysis
