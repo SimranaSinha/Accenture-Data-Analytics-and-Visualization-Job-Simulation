@@ -1,6 +1,7 @@
 # Accenture-Data-Analytics-and-Visualization-Job-Simulation
 
 # Certificate:
+[Certificate](hzmoNKtzvAzXsEqx8_Accenture North America_Ga9Q8iYbBBaNEwrMe_1723762567138_completion_certificate.pdf)
 
 # Task - 1
 # Project Understanding:
