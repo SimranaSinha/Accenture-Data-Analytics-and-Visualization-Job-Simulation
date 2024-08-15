@@ -47,7 +47,7 @@ Content type
 Create a final data set by merging 3 tables
 
 # End result will be one spreadsheet
-- [A cleaned dataset](Cleaned Dataset.xlsx))
+- [A cleaned dataset](Cleaned Dataset.xlsx)
   
 # Top 5 categories
 Cleaned Data set:
