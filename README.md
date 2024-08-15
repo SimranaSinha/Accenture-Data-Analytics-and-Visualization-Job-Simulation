@@ -33,19 +33,17 @@ Category
      -Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be 
       useful, it may not be worth including it.
   
-End result will be three cleaned data set :
+# End result will be three cleaned data set :
+[Reaction Types](ReactionTypes.csv)
+[Reactions](Reactions.csv)
+[Content](Content.csv)
 
-[Reaction Types](Reactions.csv)
-Reactions
-[Content]([https://github.com/SimranaSinha/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Data_Analytics%20Client%20Brief.pdf](https://github.com/SimranaSinha/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Content.csv)) 
 
-
-Data Modelling:
+# Data Modelling:
 Create a final data set by merging 3 tables
 
-End result will be one spreadsheet
-
-A cleaned dataset
+#End result will be one spreadsheet
+[A cleaned dataset](Cleaned Dataset.xlsx)
 Top 5 categories
 Cleaned Data set:
 So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
