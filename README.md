@@ -35,7 +35,7 @@ Category
   
 End result will be three cleaned data set :
 
-Reaction Types
+[Reaction Types](Reactions.csv)
 Reactions
 [Content]([https://github.com/SimranaSinha/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Data_Analytics%20Client%20Brief.pdf](https://github.com/SimranaSinha/Accenture-Data-Analytics-and-Visualization-Job-Simulation/blob/main/Content.csv)) 
 
