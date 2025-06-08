@@ -5,7 +5,7 @@
 
 
 # Task - 1
-# Project Understanding:
+### Project Understanding:
 A data analyst sits between the business and the data.
 
 One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
@@ -30,27 +30,27 @@ Reaction Types
 Content type
 
 
-# Data Cleaning:
-# Clean the data by:
+## Data Cleaning:
+### Clean the data by:
 - Removing rows that have values which are missing,
 - Changing the data type of some values within a column, and
 - Removing columns which are not relevant to this task.
      -Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be 
       useful, it may not be worth including it.
   
-# End result will be three cleaned data set :
+### End result will be three cleaned data set :
 - [Reaction Types](ReactionTypes.csv)
 - [Reactions](Reactions.csv)
 - [Content](Content.csv)
 
 
-# Data Modelling:
+### Data Modelling:
 Create a final data set by merging 3 tables
 
-## End result will be one spreadsheet
+### End result will be one spreadsheet
 - [A cleaned dataset](Cleaned Dataset.xlsx)
   
-## Top 5 categories
+### Top 5 categories
 Cleaned Data set:
 So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
 
