@@ -47,10 +47,10 @@ Content type
 # Data Modelling:
 Create a final data set by merging 3 tables
 
-# End result will be one spreadsheet
+## End result will be one spreadsheet
 - [A cleaned dataset](Cleaned Dataset.xlsx)
   
-# Top 5 categories
+## Top 5 categories
 Cleaned Data set:
 So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
 
